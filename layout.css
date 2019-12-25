@@ -1,0 +1,13 @@
+#main {width:950px;margin:0 auto;position:relative}
+#header {height:430px}
+#header, #content {font-size:0.875em}
+.col-1, .col-2, .col-3 {float:left}
+/* index.html */
+#page1 #content .line-ver {background-position:454px top}
+#page1 #content .col-1 {width:411px;margin-right:94px}
+#page1 #content .col-2 {width:405px}
+/* index-4.html */
+#page5 #content .line-ver {background-position:454px top}
+#page5 #content .col-1 {width:411px;margin-right:94px}
+#page5 #content .col-2 {width:405px}
+#footer {padding:0 20px 40px 20px;font-size:.75em}
